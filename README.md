@@ -20,7 +20,7 @@ For Mac copy and paste the following command into the  git bash terminal 'cd cor
 
 For Windows copy and paste the following command into the git bash terminal ' cd corona/COVID-19-Updates/Windows/ && ./covid19.sh GB
 
-**Examples** 
+**Example Commands with country codes** 
 - ./covid19 GB 
 - ./covid19 FR
 - ./covid19 EG
