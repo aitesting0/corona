@@ -1,19 +1,26 @@
 **Live Corona virus updates from across the globe**
 
-- Updates on the total number of infections, deaths and recoveries.
+- Live updates on the total number of infections, deaths and recoveries.
 
 
 **Corona Live Update Installation Steps**
 
 - Download and install Git bash:
-Windows - https://gitforwindows.org/ 
-Mac -https://downloads.digitaltrends.com/git/mac 
+  Windows - https://gitforwindows.org/ 
+  Mac -https://downloads.digitaltrends.com/git/mac 
 
-- Right click on the the 'Covid-Windows/Mac' directory and select the 'Git bash here' option
+- Open up the git bash terminal and run the following command 'git clone https://github.com/aitesting0/corona.git'
 
-- When the git bash terminal opens,  enter ./covid19.sh and a country code e.g. GB  then press return. 
 
-**Examples** 
+**Mac**
+
+For Mac copy and paste the following command into the  git bash terminal 'cd corona/COVID-19-Updates/Mac/ && ./covid19.sh GB
+
+**Windows**
+
+For Windows copy and paste the following command into the git bash terminal ' cd corona/COVID-19-Updates/Windows/ && ./covid19.sh GB
+
+**Example Commands with country codes** 
 - ./covid19 GB 
 - ./covid19 FR
 - ./covid19 EG
