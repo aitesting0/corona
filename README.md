@@ -9,7 +9,7 @@
   Windows - https://gitforwindows.org/ 
   Mac -https://downloads.digitaltrends.com/git/mac 
 
-- Open up the git bash terminal and copy and paste the following command - press enter
+- Open up the git bash terminal and copy and paste the following command and press enter
 
 git clone https://github.com/aitesting0/corona.git
 
