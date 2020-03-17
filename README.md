@@ -9,16 +9,22 @@
   Windows - https://gitforwindows.org/ 
   Mac -https://downloads.digitaltrends.com/git/mac 
 
-- Open up the git bash terminal and run the following command 'git clone https://github.com/aitesting0/corona.git'
+- Open up the git bash terminal and copy and paste the following command - press enter
+
+git clone https://github.com/aitesting0/corona.git
 
 
 **Mac**
 
-For Mac copy and paste the following command into the  git bash terminal 'cd corona/COVID-19-Updates/Mac/ && ./covid19.sh GB
+For Mac copy and paste the following command into the  git bash terminal 
+
+cd corona/COVID-19-Updates/Mac/ && ./covid19.sh GB
 
 **Windows**
 
-For Windows copy and paste the following command into the git bash terminal ' cd corona/COVID-19-Updates/Windows/ && ./covid19.sh GB
+For Windows copy and paste the following command into the git bash terminal 
+
+cd corona/COVID-19-Updates/Windows/ && ./covid19.sh GB
 
 **Example Commands with country codes** 
 - ./covid19 GB 
