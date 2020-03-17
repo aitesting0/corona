@@ -1,6 +1,6 @@
 **Live Corona virus updates from across the globe**
 
-- Updates on the total number of infections, deaths and recoveries.
+- Live updates on the total number of infections, deaths and recoveries.
 
 
 **Corona Live Update Installation Steps**
