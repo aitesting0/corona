@@ -6,7 +6,7 @@ Mac -https://downloads.digitaltrends.com/git/mac
 
 - When the git bash terminal opens,  enter './covid19.sh' followed by a countrycode e.g.'GB' and press return.
 
-Example - ./covid19.sh GB or ./covid19.sh FR
+- Example commands are ./covid19.sh GB or ./covid19.sh FR
 
                      .~#########%%;~.
                      /############%%;`\
