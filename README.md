@@ -4,9 +4,7 @@ Mac -https://downloads.digitaltrends.com/git/mac
 
 - Right click on the the 'Covid-Windows/Mac' directory and select the 'Git bash here' option
 
-- When the git bash terminal opens,  enter './covid19.sh' followed by a countrycode e.g.'GB' and press return.
-
-Example - ./covid19.sh GB or ./covid19.sh FR
+- When the git bash terminal opens,  enter ./covid19.sh and press return.
 
                      .~#########%%;~.
                      /############%%;`\
