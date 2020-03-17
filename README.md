@@ -15,7 +15,7 @@ Mac -https://downloads.digitaltrends.com/git/mac
 - ./covid19 EG
 
 
-- The terminal will update every 60 seconds and clear history before updating
+Note: The terminal will update every 60 seconds and clear history before updating
 
                      .~#########%%;~.
                      /############%%;`\
