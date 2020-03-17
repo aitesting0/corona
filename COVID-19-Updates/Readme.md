@@ -1,3 +1,6 @@
+**Corona Update Installation**
+
+
 - Download and install Git bash:
 Windows - https://gitforwindows.org/ 
 Mac -https://downloads.digitaltrends.com/git/mac 
