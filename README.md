@@ -1,5 +1,9 @@
-**Corona Installation Steps**
+**Live Corona virus updates from across the globe**
 
+- Updates on the total number of infections, deaths and recoveries.
+
+
+**Corona Live Update Installation Steps**
 
 - Download and install Git bash:
 Windows - https://gitforwindows.org/ 
