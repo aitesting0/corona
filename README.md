@@ -1,4 +1,4 @@
-Corona Installation Steps
+**Corona Installation Steps**
 
 
 - Download and install Git bash:
@@ -9,7 +9,7 @@ Mac -https://downloads.digitaltrends.com/git/mac
 
 - When the git bash terminal opens,  enter ./covid19.sh and a country code e.g. GB  then press return. 
 
-Examples 
+**Examples** 
 - ./covid19 GB 
 - ./covid19 FR
 - ./covid19 EG
