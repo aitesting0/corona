@@ -14,11 +14,11 @@
 
 **Mac**
 
-Then type and press return on ' cd corona/COVID-19-Updates/Mac/ && ./covid19.sh GB
+For Mac copy and paste the following command into the  git bash terminal 'cd corona/COVID-19-Updates/Mac/ && ./covid19.sh GB
 
 **Windows**
 
-Then type and return on ' cd corona/COVID-19-Updates/Windows/ && ./covid19.sh GB
+For Windows copy and paste the following command into the git bash terminal ' cd corona/COVID-19-Updates/Windows/ && ./covid19.sh GB
 
 **Examples** 
 - ./covid19 GB 
